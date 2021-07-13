@@ -109,6 +109,24 @@
         "name": "teja2.png",
         "smoothed": true,
         "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "teja4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "teja4.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "teja9.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "teja9.png",
+        "smoothed": true,
+        "userAdded": false
       }
     ],
     "resourceFolders": []
@@ -168,57 +186,9 @@
           "name": "paleta",
           "persistentUuid": "402d3770-2d56-416e-931c-93308797c44f",
           "width": 0,
-          "x": 329,
-          "y": 562,
+          "x": 343,
+          "y": 543,
           "zOrder": 1,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 602,
-          "layer": "",
-          "locked": false,
-          "name": "bordes",
-          "persistentUuid": "3e30d254-1bcb-477e-9738-51b191cc20a1",
-          "width": 34,
-          "x": -35,
-          "y": -2,
-          "zOrder": 2,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 23,
-          "layer": "",
-          "locked": false,
-          "name": "bordes",
-          "persistentUuid": "5a13f553-99c0-43aa-840b-ad3a4f6c6453",
-          "width": 802,
-          "x": -2,
-          "y": -25,
-          "zOrder": 3,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 614,
-          "layer": "",
-          "locked": false,
-          "name": "bordes",
-          "persistentUuid": "71a54e50-bb7f-4c4b-a7ae-715a4ffcb4f4",
-          "width": 28,
-          "x": 801,
-          "y": -13,
-          "zOrder": 4,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -232,8 +202,8 @@
           "name": "pelota",
           "persistentUuid": "2a617848-e6b5-428b-a00a-421a4658e22f",
           "width": 0,
-          "x": 372,
-          "y": 309,
+          "x": 380,
+          "y": 510,
           "zOrder": 5,
           "numberProperties": [],
           "stringProperties": [],
@@ -494,6 +464,310 @@
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "teja3",
+          "persistentUuid": "9bebcdac-9149-4935-bc60-f2c62b98cdbe",
+          "width": 0,
+          "x": 41,
+          "y": 130,
+          "zOrder": 15,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "teja3",
+          "persistentUuid": "5002367e-0148-4725-9bad-e265be0a003c",
+          "width": 0,
+          "x": 131,
+          "y": 130,
+          "zOrder": 16,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "teja3",
+          "persistentUuid": "cd6ba857-7e4c-494d-b048-232a14dbfaf9",
+          "width": 0,
+          "x": 220,
+          "y": 130,
+          "zOrder": 15,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "teja3",
+          "persistentUuid": "b79bced2-9d94-45b2-bebd-0b41fb494ce3",
+          "width": 0,
+          "x": 310,
+          "y": 130,
+          "zOrder": 16,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "teja3",
+          "persistentUuid": "51bc961d-f248-4c1d-a36b-e8f28a519bdd",
+          "width": 0,
+          "x": 400,
+          "y": 130,
+          "zOrder": 15,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "teja3",
+          "persistentUuid": "97a69873-6a31-4845-b508-db4f516eb51c",
+          "width": 0,
+          "x": 490,
+          "y": 130,
+          "zOrder": 16,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "teja3",
+          "persistentUuid": "16b770e3-bb12-40a3-b246-627b8822fbfd",
+          "width": 0,
+          "x": 579,
+          "y": 130,
+          "zOrder": 15,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "teja3",
+          "persistentUuid": "6f865674-4b10-42e0-a036-762ed582be4a",
+          "width": 0,
+          "x": 669,
+          "y": 130,
+          "zOrder": 16,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "teja4",
+          "persistentUuid": "74381596-50c3-4596-b813-0b650b098648",
+          "width": 0,
+          "x": 42,
+          "y": 188,
+          "zOrder": 17,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "teja4",
+          "persistentUuid": "aba98000-1855-4523-8cf6-9c351583d32b",
+          "width": 0,
+          "x": 132,
+          "y": 188,
+          "zOrder": 17,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "teja4",
+          "persistentUuid": "b3dc9f48-d255-4802-b981-bdb7a0638b7a",
+          "width": 0,
+          "x": 222,
+          "y": 188,
+          "zOrder": 17,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "teja4",
+          "persistentUuid": "49181bb8-1d39-4b87-aead-d64b10a70e4e",
+          "width": 0,
+          "x": 312,
+          "y": 188,
+          "zOrder": 17,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "teja4",
+          "persistentUuid": "6fbeb8ce-ef69-48fe-9127-fd3113b163bf",
+          "width": 0,
+          "x": 402,
+          "y": 188,
+          "zOrder": 17,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "teja4",
+          "persistentUuid": "208ae4a3-a10f-45db-8cf8-8d2abacd9f4c",
+          "width": 0,
+          "x": 492,
+          "y": 188,
+          "zOrder": 17,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "teja4",
+          "persistentUuid": "f4fa6597-2de2-4f58-ba37-a200ff997b09",
+          "width": 0,
+          "x": 582,
+          "y": 188,
+          "zOrder": 17,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "teja4",
+          "persistentUuid": "dbcbd917-213f-4d0d-9e6a-14749d5a1b6f",
+          "width": 0,
+          "x": 672,
+          "y": 188,
+          "zOrder": 17,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 605,
+          "layer": "",
+          "locked": false,
+          "name": "borde",
+          "persistentUuid": "b5721a83-c618-4708-81e4-ef7ccad469e2",
+          "width": 32,
+          "x": -32,
+          "y": -4,
+          "zOrder": 18,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 32,
+          "layer": "",
+          "locked": false,
+          "name": "borde",
+          "persistentUuid": "a3a06527-6ca4-4c11-bbf5-4ad0bedc8c51",
+          "width": 801,
+          "x": -2,
+          "y": -34,
+          "zOrder": 19,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 614,
+          "layer": "",
+          "locked": false,
+          "name": "borde",
+          "persistentUuid": "8f9b9ff5-d312-4f8a-a622-3fe46e8ee1f2",
+          "width": 32,
+          "x": 799,
+          "y": -13,
+          "zOrder": 20,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
         }
       ],
       "objects": [
@@ -706,240 +980,129 @@
               ]
             }
           ]
+        },
+        {
+          "name": "teja3",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "teja4.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "teja4",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "teja9.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "height": 32,
+          "name": "borde",
+          "tags": "",
+          "texture": "borde.png",
+          "type": "TiledSpriteObject::TiledSprite",
+          "width": 32,
+          "variables": [],
+          "behaviors": []
         }
       ],
       "events": [
         {
-          "colorB": 228,
-          "colorG": 176,
-          "colorR": 74,
-          "creationTime": 0,
           "disabled": false,
           "folded": false,
-          "name": "Paleta",
-          "source": "",
-          "type": "BuiltinCommonInstructions::Group",
-          "events": [
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
             {
-              "disabled": false,
-              "folded": false,
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [
-                {
-                  "type": {
-                    "inverted": false,
-                    "value": "KeyPressed"
-                  },
-                  "parameters": [
-                    "",
-                    "Right"
-                  ],
-                  "subInstructions": []
-                }
+              "type": {
+                "inverted": false,
+                "value": "KeyPressed"
+              },
+              "parameters": [
+                "",
+                "Right"
               ],
-              "actions": [
-                {
-                  "type": {
-                    "inverted": false,
-                    "value": "MettreX"
-                  },
-                  "parameters": [
-                    "paleta",
-                    "+",
-                    "7"
-                  ],
-                  "subInstructions": []
-                }
-              ],
-              "events": []
-            },
-            {
-              "disabled": false,
-              "folded": false,
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [
-                {
-                  "type": {
-                    "inverted": false,
-                    "value": "KeyPressed"
-                  },
-                  "parameters": [
-                    "",
-                    "Left"
-                  ],
-                  "subInstructions": []
-                }
-              ],
-              "actions": [
-                {
-                  "type": {
-                    "inverted": false,
-                    "value": "MettreX"
-                  },
-                  "parameters": [
-                    "paleta",
-                    "-",
-                    "7"
-                  ],
-                  "subInstructions": []
-                }
-              ],
-              "events": []
-            },
-            {
-              "disabled": false,
-              "folded": false,
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [],
-              "actions": [
-                {
-                  "type": {
-                    "inverted": false,
-                    "value": "SeparateFromObjects"
-                  },
-                  "parameters": [
-                    "paleta",
-                    "bordes",
-                    ""
-                  ],
-                  "subInstructions": []
-                }
-              ],
-              "events": []
+              "subInstructions": []
             }
           ],
-          "parameters": []
-        },
-        {
-          "colorB": 228,
-          "colorG": 176,
-          "colorR": 74,
-          "creationTime": 0,
-          "disabled": false,
-          "folded": false,
-          "name": "Pelota",
-          "source": "",
-          "type": "BuiltinCommonInstructions::Group",
-          "events": [
+          "actions": [
             {
-              "disabled": false,
-              "folded": false,
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [],
-              "actions": [
-                {
-                  "type": {
-                    "inverted": false,
-                    "value": "Bounce::Bounce::BounceOff"
-                  },
-                  "parameters": [
-                    "pelota",
-                    "Bounce",
-                    "bordes",
-                    ""
-                  ],
-                  "subInstructions": []
-                }
+              "type": {
+                "inverted": false,
+                "value": "MettreX"
+              },
+              "parameters": [
+                "paleta",
+                "+",
+                "30"
               ],
-              "events": []
-            },
-            {
-              "disabled": false,
-              "folded": false,
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [
-                {
-                  "type": {
-                    "inverted": false,
-                    "value": "DepartScene"
-                  },
-                  "parameters": [
-                    ""
-                  ],
-                  "subInstructions": []
-                }
-              ],
-              "actions": [
-                {
-                  "type": {
-                    "inverted": false,
-                    "value": "AddForceAL"
-                  },
-                  "parameters": [
-                    "pelota",
-                    "RandomInRange(70, 110)",
-                    "300",
-                    "1"
-                  ],
-                  "subInstructions": []
-                }
-              ],
-              "events": []
+              "subInstructions": []
             }
           ],
-          "parameters": []
-        },
-        {
-          "colorB": 228,
-          "colorG": 176,
-          "colorR": 74,
-          "creationTime": 0,
-          "disabled": false,
-          "folded": false,
-          "name": "Tejas",
-          "source": "",
-          "type": "BuiltinCommonInstructions::Group",
-          "events": [
-            {
-              "disabled": false,
-              "folded": false,
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [
-                {
-                  "type": {
-                    "inverted": false,
-                    "value": "CollisionNP"
-                  },
-                  "parameters": [
-                    "Tejas",
-                    "pelota",
-                    "",
-                    "",
-                    ""
-                  ],
-                  "subInstructions": []
-                }
-              ],
-              "actions": [
-                {
-                  "type": {
-                    "inverted": false,
-                    "value": "Delete"
-                  },
-                  "parameters": [
-                    "Tejas",
-                    ""
-                  ],
-                  "subInstructions": []
-                },
-                {
-                  "type": {
-                    "inverted": false,
-                    "value": "Bounce::Bounce::BounceOff"
-                  },
-                  "parameters": [
-                    "pelota",
-                    "Bounce",
-                    "Tejas",
-                    ""
-                  ],
-                  "subInstructions": []
-                }
-              ],
-              "events": []
-            }
-          ],
-          "parameters": []
+          "events": []
         },
         {
           "disabled": false,
@@ -949,13 +1112,42 @@
             {
               "type": {
                 "inverted": false,
-                "value": "CollisionNP"
+                "value": "KeyPressed"
               },
               "parameters": [
-                "pelota",
+                "",
+                "Left"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "MettreX"
+              },
+              "parameters": [
                 "paleta",
-                "",
-                "",
+                "-",
+                "30"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "DepartScene"
+              },
+              "parameters": [
                 ""
               ],
               "subInstructions": []
@@ -965,26 +1157,13 @@
             {
               "type": {
                 "inverted": false,
-                "value": "Bounce::Bounce::BounceOff"
-              },
-              "parameters": [
-                "pelota",
-                "Bounce",
-                "paleta",
-                ""
-              ],
-              "subInstructions": []
-            },
-            {
-              "type": {
-                "inverted": false,
-                "value": "AddForceXY"
+                "value": "AddForceAL"
               },
               "parameters": [
                 "pelota",
                 "RandomInRange(225,315)",
-                "",
-                ""
+                "20",
+                "1"
               ],
               "subInstructions": []
             }
